@@ -65,7 +65,6 @@ router.post('/recommendations/grid', function(req, res) {
   console.log(req.body);
     recommendation_city_sample = _.sampleSize(airports, 40);
   recommendation_city_sample.forEach(function(item) {
-
     var category = _.sample(categories)
     new_rec = {
       location: item.city + ", " + item.country,
@@ -91,7 +90,8 @@ router.post('/recommendations/grid', function(req, res) {
 // REGISTER OUR ROUTES -------------------------------
 // all of our routes will be prefixed with /api
 app.use('/api', router);
-app.use(express.static('images'));
+app.use('/images', express.static(__dirname + '/images'));
+
 
 // START THE SERVER
 // =============================================================================

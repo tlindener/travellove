@@ -15,6 +15,7 @@
     "chance": "^1.0.12",
     "express": "^4.16.2",
     "lodash": "^4.17.4",
-    "node-geocoder": "^3.21.1"
+    "node-geocoder": "^3.21.1",
+    "request": "^2.83.0"
   }
 }
