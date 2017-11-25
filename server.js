@@ -9,7 +9,9 @@ var app = express(); // define our app using express
 var bodyParser = require('body-parser');
 // Load Chance
 var Chance = require('chance');
+var async = require('async')
 
+var request = require("request");
 // Instantiate Chance so it can be used
 var chance = new Chance();
 var _ = require('lodash');
@@ -49,6 +51,10 @@ router.get('/recommendations/fb', function(req, res) {
       min: 1,
       max: 12
     });
+    item['price'] = chance.integer({
+      min: 200,
+      max: 1000
+    });
     recommendations_new.push(item)
   });
   res.json(recommendations_new);
@@ -63,10 +69,12 @@ router.post('/recommendations/grid', function(req, res) {
   var recommendations = []
   var categories = req.body.categories
   console.log(req.body);
-    recommendation_city_sample = _.sampleSize(airports, 40);
-  recommendation_city_sample.forEach(function(item) {
+  recommendation_city_sample = _.sampleSize(airports, 40);
+
+  async.forEach(recommendation_city_sample, function(item, callback) {
+    console.log(item); // print the key
     var category = _.sample(categories)
-    new_rec = {
+    var new_rec = {
       location: item.city + ", " + item.country,
       type: category_map[category],
       activity: category,
@@ -77,12 +85,57 @@ router.post('/recommendations/grid', function(req, res) {
       })
 
     }
+    var options = {
+      method: 'GET',
+      url: 'https://instantsearch-junction.ecom.finnair.com/api/instantsearch/pricesforperiod/fixeddeparture',
+      qs: {
+        departureLocationCode: 'HEL',
+        destinationLocationCode: item.locationCode,
+        departureDate: '2018-' + minTwoDigits(new_rec.month) + '-01',
+        numberOfDays: chance.integer({
+          min: 3,
+          max: 21
+        })
+      },
+      headers: {}
+    };
 
-    recommendations.push(new_rec)
-  })
+    request(options, function(error, response, body) {
+      if (error) throw new Error(error);
 
-  res.json(recommendations);
+      var result = JSON.parse(body)
+      var price = _.find(result.prices, function(o) {
+        return o.noFlight === false;
+      });
+      console.log(body);
+      if (price != undefined) {
+        new_rec['price'] = price.price
+        console.log(price);
+        recommendations.push(new_rec)
+        callback();
+      } else {
+        callback();
+      }
+
+
+    });
+
+
+
+  }, function(err) {
+    console.log("Iteration done");
+    res.json(recommendations);
+  });
+
+
+
 });
+
+function minTwoDigits(n) {
+  return (n < 10 ? '0' : '') + n;
+}
+
+
 
 
 // more routes for our API will happen here
