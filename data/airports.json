@@ -1,0 +1,1433 @@
+[
+  {
+    "locationCode": "OTP",
+    "title": "Bucharest Henri Coanda",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Bucharest",
+    "country": "Romania",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "FRA",
+    "title": "Frankfurt International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Frankfurt",
+    "country": "Germany",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "AMM",
+    "title": "Amman Queen Alia",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Amman",
+    "country": "Jordan",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "AQJ",
+    "title": "Aqaba King Hussein International",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Aqaba",
+    "country": "Jordan",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "AGP",
+    "title": "Malaga Airport ",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Málaga",
+    "country": "Spain",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "BGO",
+    "title": "Bergen Flesland",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Bergen",
+    "country": "Norway",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "BLL",
+    "title": "Billund",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Billund",
+    "country": "Denmark",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "PTY",
+    "title": "Panama city Tocumen International",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Panama city",
+    "country": "Panama",
+    "continent": "North America"
+  },
+  {
+    "locationCode": "CDG",
+    "title": "Paris Charles De Gaulle",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Paris",
+    "country": "France",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "CHQ",
+    "title": "Chania I Daskalogiannis",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Chania",
+    "country": "Greece",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "ORD",
+    "title": "Chicago O Hare International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Chicago",
+    "country": "United States",
+    "continent": "North America"
+  },
+  {
+    "locationCode": "CMB",
+    "title": "Colombo Bandaranaike International",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "CFU",
+    "title": "Corfu",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Corfu",
+    "country": "Greece",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "HAN",
+    "title": "Hanoi Noi Bai International",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "ENF",
+    "title": "Enontekio",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Enontekiö",
+    "country": "Finland",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "LHR",
+    "title": "London Heathrow",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "London",
+    "country": "United Kingdom",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "VDA",
+    "title": "Eilat Ovda",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Eilat",
+    "country": "Israel",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "HAM",
+    "title": "Hamburg",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Hamburg",
+    "country": "Germany",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "TOS",
+    "title": "Tromso Langnes",
+    "airAlliance": false,
+    "airPartner": true,
+    "city": "Tromsø",
+    "country": "Norway",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "FLL",
+    "title": "Fort Lauderdale FLL International",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Fort Lauderdale",
+    "country": "United States",
+    "continent": "North America"
+  },
+  {
+    "locationCode": "FUK",
+    "title": "Fukuoka",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Fukuoka",
+    "country": "Japan",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "NGO",
+    "title": "Nagoya Chubu Centrair International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Nagoya",
+    "country": "Japan",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "VAA",
+    "title": "Vaasa",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Vaasa",
+    "country": "Finland",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "NRT",
+    "title": "Tokyo Narita International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Tokyo",
+    "country": "Japan",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "HER",
+    "title": "Heraklion Nikos Kazantzakis",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Heraklion",
+    "country": "Greece",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "JOE",
+    "title": "Joensuu",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Joensuu",
+    "country": "Finland",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "KZN",
+    "title": "Kazan International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Kazan",
+    "country": "Russia",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "KGS",
+    "title": "Kos Ippokratis",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Kos",
+    "country": "Greece",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "VIE",
+    "title": "Vienna International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Vienna",
+    "country": "Austria",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "UME",
+    "title": "Umea",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Umeå",
+    "country": "Sweden",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "NUE",
+    "title": "Nuremberg Airport",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Nuremberg",
+    "country": "Germany",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "LUX",
+    "title": "Luxembourg",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Luxembourg city",
+    "country": "Luxembourg",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "POP",
+    "title": "Puerto Plata Gregorio Luperon International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Puerto Plata",
+    "country": "Dominican Republic",
+    "continent": "North America"
+  },
+  {
+    "locationCode": "FCO",
+    "title": "Rome Fiumicino",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Rome",
+    "country": "Italy",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "MNL",
+    "title": "Manila Ninoy Aquino International",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Manila",
+    "country": "Philippines",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "MIA",
+    "title": "Miami International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Miami",
+    "country": "United States",
+    "continent": "North America"
+  },
+  {
+    "locationCode": "HKT",
+    "title": "Phuket International",
+    "airAlliance": false,
+    "airPartner": true,
+    "city": "Phuket",
+    "country": "Thailand",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "NKG",
+    "title": "Nanjing Lukou International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Nanjing",
+    "country": "China",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "OUL",
+    "title": "Oulu",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Oulu",
+    "country": "Finland",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "PMI",
+    "title": "Palma Mallorca",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Palma de Mallorca",
+    "country": "Spain",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "MLA",
+    "title": "Malta Luqa International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Valletta",
+    "country": "Malta",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "SPU",
+    "title": "Split",
+    "airAlliance": false,
+    "airPartner": true,
+    "city": "Split",
+    "country": "Croatia",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "SFO",
+    "title": "San Francisco International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "San Francisco",
+    "country": "United States",
+    "continent": "North America"
+  },
+  {
+    "locationCode": "JSI",
+    "title": "Skiathos Alex Papadiamantis",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Skiathos",
+    "country": "Greece",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "BMA",
+    "title": "Stockholm Bromma",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Stockholm",
+    "country": "Sweden",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "TMP",
+    "title": "Tampere Pirkkala",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Tampere",
+    "country": "Finland",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "TKU",
+    "title": "Turku",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Turku",
+    "country": "Finland",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "VNO",
+    "title": "Vilnius International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Vilnius",
+    "country": "Lithuania",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "NAP",
+    "title": "Naples Capodichino Airport",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Naples",
+    "country": "Italy",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "XIY",
+    "title": "Xi An Xianyang International",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Xi'an",
+    "country": "China",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "NCE",
+    "title": "Nice CÃ´te D'Azur ",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Nice",
+    "country": "France",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "TXL",
+    "title": "Berlin Tegel",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Berlin",
+    "country": "Germany",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "PEK",
+    "title": "Beijing Capital International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Beijing",
+    "country": "China",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "OSL",
+    "title": "Oslo Gardermoen",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Oslo",
+    "country": "Norway",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "JFK",
+    "title": "New York John F Kennedy International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "New York city",
+    "country": "United States",
+    "continent": "North America"
+  },
+  {
+    "locationCode": "KEM",
+    "title": "Kemi Tornio",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Kemi/Tornio",
+    "country": "Finland",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "GVA",
+    "title": "Geneva International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Geneva",
+    "country": "Switzerland",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "KRK",
+    "title": "Krakow John Paul II Balice",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Kraków",
+    "country": "Poland",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "VCE",
+    "title": "Venice Marco Polo",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Venice",
+    "country": "Italy",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "PVG",
+    "title": "Shanghai Pudong International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Shanghai",
+    "country": "China",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "PUY",
+    "title": "Pula",
+    "airAlliance": false,
+    "airPartner": true,
+    "city": "Pula",
+    "country": "Croatia",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "PSA",
+    "title": "Pisa Galileo Galilei",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Pisa",
+    "country": "Italy",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "LPA",
+    "title": "Gran Canaria",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Las Palmas",
+    "country": "Spain",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "RVN",
+    "title": "Rovaniemi",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Rovaniemi",
+    "country": "Finland",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "KEF",
+    "title": "Reykjavik Keflavik International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Reykjavík",
+    "country": "Iceland",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "SIN",
+    "title": "Singapore Changi",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "HKG",
+    "title": "Hong Kong International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Hong Kong",
+    "country": "China",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "AGA",
+    "title": "Agadir Al Massira",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Agadir",
+    "country": "Morocco",
+    "continent": "Africa"
+  },
+  {
+    "locationCode": "XRY",
+    "title": "Jerez Airport",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Jerez de la Frontera",
+    "country": "Spain",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "HEL",
+    "title": "Helsinki Vantaa",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Helsinki",
+    "country": "Finland",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "WAW",
+    "title": "Warsaw Frederic Chopin",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Warsaw",
+    "country": "Poland",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "MAH",
+    "title": "Menorca",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Menorca",
+    "country": "Spain",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "VBY",
+    "title": "Visby",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Visby",
+    "country": "Sweden",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "JTR",
+    "title": "Santorini",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Santorini",
+    "country": "Greece",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "SGN",
+    "title": "Ho Chi Minh city Tan Son Nhat International",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Ho Chi Minh city",
+    "country": "Vietnam",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "MAN",
+    "title": "Manchester Airport",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Manchester",
+    "country": "United Kingdom",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "JYV",
+    "title": "Jyvaskyla",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Jyväskylä",
+    "country": "Finland",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "EDI",
+    "title": "Edinburgh Airport",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Edinburgh",
+    "country": "United Kingdom",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "DUS",
+    "title": "Duesseldorf International Airport",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Düsseldorf",
+    "country": "Germany",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "STR",
+    "title": "Stuttgart Airport",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Stuttgart",
+    "country": "Germany",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "CAN",
+    "title": "Guangzhou",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Guangzhou",
+    "country": "China",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "HAV",
+    "title": "Havana Jose Marti International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Havana",
+    "country": "Cuba",
+    "continent": "North America"
+  },
+  {
+    "locationCode": "OSD",
+    "title": "Are Ostersund",
+    "airAlliance": false,
+    "airPartner": true,
+    "city": "Östersund",
+    "country": "Sweden",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "GDN",
+    "title": "Gdansk Lech Walesa",
+    "airAlliance": false,
+    "airPartner": true,
+    "city": "Gda?sk",
+    "country": "Poland",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "FUE",
+    "title": "Fuerteventura",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Fuerteventura",
+    "country": "Spain",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "SEA",
+    "title": "Seattle Tacoma International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Seattle",
+    "country": "United States",
+    "continent": "North America"
+  },
+  {
+    "locationCode": "DUB",
+    "title": "Dublin International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Dublin",
+    "country": "Ireland",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "BRU",
+    "title": "Brussels Airport",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Brussels",
+    "country": "Belgium",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "CPH",
+    "title": "Copenhagen Kastrup",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "DXB",
+    "title": "Dubai International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "SOF",
+    "title": "Sofia",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "ATH",
+    "title": "Athens International E. Venizelos",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Athens",
+    "country": "Greece",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "YHZ",
+    "title": "Halifax Stanfield International",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Halifax",
+    "country": "Canada",
+    "continent": "North America"
+  },
+  {
+    "locationCode": "DTW",
+    "title": "Detroit Metropolitan Wayne Co",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Detroit",
+    "country": "United States",
+    "continent": "North America"
+  },
+  {
+    "locationCode": "DBV",
+    "title": "Dubrovnik",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Dubrovnik",
+    "country": "Croatia",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "DEL",
+    "title": "Delhi Indira Gandhi International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Delhi",
+    "country": "India",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "KBV",
+    "title": "Krabi",
+    "airAlliance": false,
+    "airPartner": true,
+    "city": "Krabi",
+    "country": "Thailand",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "KAJ",
+    "title": "Kajaani",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Kajaani",
+    "country": "Finland",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "BKK",
+    "title": "Bangkok Suvarnabhumi International Airport",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Bangkok",
+    "country": "Thailand",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "YUL",
+    "title": "Montreal Pierre E. Trudeau International",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Montréal",
+    "country": "Canada",
+    "continent": "North America"
+  },
+  {
+    "locationCode": "MXP",
+    "title": "Milan Malpensa",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Milan",
+    "country": "Italy",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "TLV",
+    "title": "Tel Aviv Yafo Ben Gurion International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "VRN",
+    "title": "Verona Villafranca",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Verona",
+    "country": "Italy",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "SVX",
+    "title": "Yekaterinburg Koltsovo",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Yekaterinburg",
+    "country": "Russia",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "KOK",
+    "title": "Kokkola Pietarsaari Kruunupyy",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Kokkola",
+    "country": "Finland",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "MAD",
+    "title": "Madrid Adolfo Suarez Barajas",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Madrid",
+    "country": "Spain",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "ICN",
+    "title": "Seoul Incheon International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Seoul",
+    "country": "South Korea",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "SZG",
+    "title": "Salzburg Wolfgang A Mozart",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Salzburg",
+    "country": "Austria",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "RIX",
+    "title": "Riga International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Riga",
+    "country": "Latvia",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "AMS",
+    "title": "Amsterdam Schiphol Airport ",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "KIX",
+    "title": "Osaka Kansai International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Osaka",
+    "country": "Japan",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "LGK",
+    "title": "Langkawi International",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Langkawi",
+    "country": "Malaysia",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "KUO",
+    "title": "Kuopio",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Kuopio",
+    "country": "Finland",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "LAX",
+    "title": "Los Angeles International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Los Angeles",
+    "country": "United States",
+    "continent": "North America"
+  },
+  {
+    "locationCode": "TFN",
+    "title": "Tenerife Norte",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Tenerife",
+    "country": "Spain",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "TFS",
+    "title": "Tenerife Sur",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Tenerife",
+    "country": "Spain",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "MHQ",
+    "title": "Mariehamn",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Mariehamn",
+    "country": "Finland",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "PRG",
+    "title": "Prague Ruzyne",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Prague",
+    "country": "Czech Republic",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "YYZ",
+    "title": "Toronto Lester B. Pearson International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Toronto",
+    "country": "Canada",
+    "continent": "North America"
+  },
+  {
+    "locationCode": "KBP",
+    "title": "Kiev Boryspil International",
+    "airAlliance": false,
+    "airPartner": true,
+    "city": "Kiev",
+    "country": "Ukraine",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "BUD",
+    "title": "Budapest Liszt Ferenc International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Budapest",
+    "country": "Hungary",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "CUN",
+    "title": "Cancun International",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Cancún",
+    "country": "Mexico",
+    "continent": "North America"
+  },
+  {
+    "locationCode": "BOS",
+    "title": "Boston Logan International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Boston",
+    "country": "United States",
+    "continent": "North America"
+  },
+  {
+    "locationCode": "BAH",
+    "title": "Bahrain International",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Manama",
+    "country": "Bahrain",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "CKG",
+    "title": "Chongqing Jiangbei International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Chongqing",
+    "country": "China",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "TSE",
+    "title": "Astana International",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Astana",
+    "country": "Kazakhstan",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "AYT",
+    "title": "Antalya",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Antalya",
+    "country": "Turkey",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "PFO",
+    "title": "Paphos International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Paphos",
+    "country": "Cyprus",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "POR",
+    "title": "Pori",
+    "airAlliance": false,
+    "airPartner": true,
+    "city": "Pori",
+    "country": "Finland",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "ARN",
+    "title": "Stockholm Arlanda",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Stockholm",
+    "country": "Sweden",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "LGW",
+    "title": "London Gatwick",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "London",
+    "country": "United Kingdom",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "GZP",
+    "title": "Alanya (Gazipasa)",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Alanya",
+    "country": "Turkey",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "CAI",
+    "title": "Cairo International",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Cairo",
+    "country": "Egypt",
+    "continent": "Africa"
+  },
+  {
+    "locationCode": "CGN",
+    "title": "Cologne/Bonn",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Cologne/Bonn",
+    "country": "Germany",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "BIQ",
+    "title": "Biarritz Pays Basque",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Biarritz",
+    "country": "France",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "BOM",
+    "title": "Mumbai Chhatrapati Shivaji",
+    "airAlliance": false,
+    "airPartner": true,
+    "city": "Mumbai",
+    "country": "India",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "ZRH",
+    "title": "Zurich Airport",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Zürich",
+    "country": "Switzerland",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "KAO",
+    "title": "Kuusamo",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Kuusamo",
+    "country": "Finland",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "KTT",
+    "title": "Kittila",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Kittilä",
+    "country": "Finland",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "IVL",
+    "title": "Ivalo",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Ivalo",
+    "country": "Finland",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "MMX",
+    "title": "Malmo",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Malmö",
+    "country": "Sweden",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "LJU",
+    "title": "Ljubljana Joze Pucnik",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Ljubljana",
+    "country": "Slovenia",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "LED",
+    "title": "St Petersburg Pulkovo",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Saint Petersburg",
+    "country": "Russia",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "MUC",
+    "title": "Munich International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Munich",
+    "country": "Germany",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "INN",
+    "title": "Innsbruck Airport",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Innsbruck",
+    "country": "Austria",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "IBZ",
+    "title": "Ibiza",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Ibiza",
+    "country": "Spain",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "DWC",
+    "title": "Dubai Al Maktoum International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "FNC",
+    "title": "Madeira",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Funchal",
+    "country": "Portugal",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "SVO",
+    "title": "Moscow Sheremetyevo International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Moscow",
+    "country": "Russia",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "TLL",
+    "title": "Tallinn Lennart Meri ",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Tallinn",
+    "country": "Estonia",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "ALC",
+    "title": "Alicante Airport ",
+    "airAlliance": true,
+    "airPartner": false,
+    "city": "Alicante",
+    "country": "Spain",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "GOT",
+    "title": "Goteborg Landvetter ",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Gothenburg",
+    "country": "Sweden",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "TAY",
+    "title": "Tartu Ulenurme",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Tartu",
+    "country": "Estonia",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "BCN",
+    "title": "Barcelona-El Prat Airport",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Barcelona",
+    "country": "Spain",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "LIS",
+    "title": "Lisbon Airport ",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Lisbon",
+    "country": "Portugal",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "RHO",
+    "title": "Rhodes Diagoras Airport",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Rhodes",
+    "country": "Greece",
+    "continent": "Europe"
+  },
+  {
+    "locationCode": "GOI",
+    "title": "Goa Dabolim",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Goa",
+    "country": "India",
+    "continent": "Asia"
+  },
+  {
+    "locationCode": "PVR",
+    "title": "Puerto Vallarta G.Diaz Ordaz International",
+    "airAlliance": false,
+    "airPartner": false,
+    "city": "Puerto Vallarta",
+    "country": "Mexico",
+    "continent": "North America"
+  },
+  {
+    "locationCode": "SDL",
+    "title": "Sundsvall/Harnosand Sundsvall-Timra",
+    "airAlliance": false,
+    "airPartner": true,
+    "city": "Sundsvall",
+    "country": "Sweden",
+    "continent": "Europe"
+  }
+]

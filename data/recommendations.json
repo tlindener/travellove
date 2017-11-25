@@ -1,0 +1,307 @@
+[{
+    "location": "Ailefroide, Écrins, France",
+    "type": "sports",
+    "activity": "Rock Climbing",
+    "categories": ["nature", "mountain"],
+    "images": [
+      "climbing_ailefroide_1.jpg"
+    ]
+  },
+  {
+    "location": "Portland, Dorset",
+    "type": "sports",
+    "activity": "Rock Climbing",
+    "categories": ["nature", "mountain"],
+    "images": [
+      "climbing_portland_1.jpg"
+    ]
+  },
+  {
+    "location": "Llanberis Pass, Snowdonia",
+    "type": "sports",
+    "activity": "Rock Climbing",
+    "categories": ["nature", "mountain"],
+    "images": [
+      "climbing_llanberis_pass_1.jpg"
+    ]
+  },
+  {
+    "location": "Siurana, Catalonia, Spain",
+    "type": "sports",
+    "activity": "Rock Climbing",
+    "categories": ["nature", "mountain"],
+    "images": [
+      "climbing_siurana_1.jpg"
+    ]
+  },
+  {
+    "location": "Fontainebleau, France",
+    "type": "sports",
+    "activity": "Rock Climbing",
+    "categories": ["nature", "mountain"],
+    "images": [
+      "climbing_Fontainebleau_1.jpg"
+    ]
+  },
+  {
+    "location": "San Vito Lo Capo, Sicily",
+    "type": "sports",
+    "activity": "Rock Climbing",
+    "categories": ["nature", "mountain"],
+    "images": [
+      "climbing_San_Vito_1.jpg"
+    ]
+  },
+  {
+    "location": "West Penwith, Cornwall",
+    "type": "sports",
+    "activity": "Rock Climbing",
+    "categories": ["nature", "mountain"],
+    "images": [
+      "climbing_West_Penwith_1.jpg"
+    ]
+  },
+  {
+    "location": "Västervik, Sweden",
+    "type": "sports",
+    "activity": "Rock Climbing",
+    "categories": ["nature", "mountain"],
+    "images": [
+      "climbing_Vaestervik_1.jpg"
+    ]
+  },
+  {
+    "location": "Costa Blanca, Spain",
+    "type": "sports",
+    "activity": "Rock Climbing",
+    "categories": ["nature", "mountain"],
+    "images": [
+      "climbing_costa_blanca_1.jpg"
+    ]
+  },
+  {
+    "location": "Yosemite, USA",
+    "type": "sports",
+    "activity": "Rock Climbing",
+    "categories": ["nature", "mountain"],
+    "images": [
+      "climbing_yosemite_1.jpg",
+      "climbing_yosemite_2.jpg"
+    ]
+  },
+  {
+    "location": "Cat Ba, Vietnam",
+    "type": "sports",
+    "activity": "Rock Climbing",
+    "categories": ["nature", "mountain"],
+    "images": [
+      "climbing_cat_ba_1.jpg",
+      "climbing_cat_ba_2.jpg"
+    ]
+  },
+  {
+    "location": "Canggu, Bali",
+    "type": "sports",
+    "activity": "Surfing",
+    "categories": ["extreme", "surfind", "beach"],
+    "images": [
+      "climbing_canggu_1.jpg"
+    ]
+  },
+  {
+    "location": "Sennen Cove, Cornwall",
+    "type": "sports",
+    "activity": "Surfing",
+    "categories": ["extreme", "surfind", "beach"],
+    "images": [
+      "surfing_sennen_cove_1.jpg"
+    ]
+  },
+  {
+    "location": "Hoddevik, Norway",
+    "type": "sports",
+    "activity": "Surfing",
+    "categories": ["extreme", "surfind", "beach"],
+    "images": [
+      "surfing_Hoddevik_1.jpg"
+    ]
+  },
+  {
+    "location": "Waikiki, Hawaii",
+    "type": "sports",
+    "activity": "Surfing",
+    "categories": ["extreme", "surfind", "beach"],
+    "images": [
+      "surfing_Waikiki_1.jpg"
+    ]
+  },
+  {
+    "location": "Lagos, Portugal",
+    "type": "sports",
+    "activity": "Surfing",
+    "categories": ["extreme", "surfind", "beach"],
+    "images": [
+      "surfing_lagos_1.jpg"
+    ]
+  },
+  {
+    "location": "El Paredón, Guatemala",
+    "type": "sports",
+    "activity": "Surfing",
+    "categories": ["extreme", "surfind", "beach"],
+    "images": [
+      "surfing_el_paredon_1.jpg"
+    ]
+  },
+  {
+    "location": "Hossegor, France",
+    "type": "sports",
+    "activity": "Surfing",
+    "categories": ["extreme", "surfind", "beach"],
+    "images": [
+      "surfing_Hossegor_1.jpg"
+    ]
+  },
+  {
+    "location": "Tofo Beach, Mozambique",
+    "type": "sports",
+    "activity": "Surfing",
+    "categories": ["extreme", "surfind", "beach"],
+    "images": [
+      "surfing_tofo_beach_1.jpg"
+    ]
+  },
+  {
+    "location": "San Vicente de la Barquera, Spain",
+    "type": "sports",
+    "activity": "Surfing",
+    "categories": ["extreme", "surfind", "beach"],
+    "images": [
+      "surfing_san_vicente_1.jpg"
+    ]
+  },
+  {
+    "location": "Sayulita, Mexico",
+    "type": "sports",
+    "activity": "Surfing",
+    "categories": ["extreme", "surfind", "beach"],
+    "images": [
+      "surfing_Sayulita_1.jpg"
+    ]
+  },
+  {
+    "location": "Tallinn, Estonia",
+    "type": "event",
+    "activity": "Nightwish Concert",
+    "categories": ["music", "gig"],
+    "images": [
+      "music_nightwish_1.jpg",
+      "music_nightwish_2.jpg"
+    ]
+  },
+  {
+    "location": "Turku, Finland",
+    "type": "event",
+    "activity": "Sonata Artica Concert",
+    "categories": ["music", "gig"],
+    "images": [
+      "music_sonata_artica_1.jpg"
+    ]
+  },
+  {
+    "location": "Oulu, Finland",
+    "type": "event",
+    "activity": "Sonata Artica Concert",
+    "categories": ["music", "gig"],
+    "images": [
+      "music_sonata_artica_1.jpg"
+    ]
+  },
+  {
+    "location": "Nivala, Finland",
+    "type": "event",
+    "activity": "Sonata Artica Concert",
+    "categories": ["music", "gig"],
+    "images": [
+      "music_sonata_artica_1.jpg"
+    ]
+  },
+  {
+    "location": "San Francisco",
+    "type": "event",
+    "activity": "Evanescence Concert",
+    "categories": ["music", "gig"],
+    "images": [
+      "music_evanescense_1.jpg"
+    ]
+  },
+  {
+    "location": "Shanghai, China",
+    "type": "visit",
+    "activity": "Visit Friends",
+    "images": [
+      "city_shanghai_1.jpg"
+    ]
+  },
+  {
+    "location": "Tallinn, Estonia",
+    "activity": "Visit Friends",
+    "type": "visit",
+    "images": [
+      "city_tallinn_1.jpg",
+      "city_tallinn_2.jpg"
+    ]
+  },
+  {
+    "location": "Cologne, Germany",
+    "activity": "Visit Friends",
+    "type": "visit",
+    "images": [
+      "city_cologne_1.jpg",
+      "city_cologne_2.jpg"
+    ]
+  },
+  {
+    "location": "Hoi An, Vietnam",
+    "airport_code": "SAT",
+    "type": "place",
+    "activity": "Visit New Place",
+    "categories": ["city", "museum"],
+    "images": [
+      "place_hoi_an_1.jpg",
+      "place_hoi_an_2.jpg"
+    ]
+  },
+  {
+    "location": "San Antonio, Ecuador",
+    "airport_code": "SAT",
+    "type": "place",
+    "activity": "Visit New Place",
+    "categories": ["city", "museum"],
+    "images": [
+      "place_san_antonio_1.jpg"
+    ]
+  },
+  {
+    "location": "Quito, Ecuador",
+    "airport_code": "UIO",
+    "type": "place",
+    "activity": "Visit New Place",
+    "categories": ["city", "museum"],
+    "images": [
+      "place_quito_1.jpg",
+      "place_quito_2.jpg"
+    ]
+  },
+  {
+    "location": "Galapagos, Ecuador",
+    "airport_code": "GYE",
+    "type": "place",
+    "activity": "Visit New Place",
+    "categories": ["city", "museum"],
+    "images": [
+      "place_galapagos_1.jpg",
+      "place_galapagos_2.jpg"
+    ]
+  }
+]
