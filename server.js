@@ -58,7 +58,7 @@ var airports = require('./data/airports');
 router.get('/airports', function(req, res) {
   res.json(airports);
 });
-
+var category_map = require('./data/category_map')
 router.post('/recommendations/grid', function(req, res) {
   var recommendations = []
   var categories = req.body.categories
@@ -66,11 +66,12 @@ router.post('/recommendations/grid', function(req, res) {
     recommendation_city_sample = _.sampleSize(airports, 40);
   recommendation_city_sample.forEach(function(item) {
 
+    var category = _.sample(categories)
     new_rec = {
-      location: item.city + " " + item.country,
-      type: "sports",
-      activity: "Rock Climbing",
-      categories: _.sampleSize(categories, 1),
+      location: item.city + ", " + item.country,
+      type: category_map[category],
+      activity: category,
+      categories: [category],
       month: chance.integer({
         min: 1,
         max: 12
