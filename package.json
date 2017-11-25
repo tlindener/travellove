@@ -14,6 +14,7 @@
     "body-parser": "^1.18.2",
     "chance": "^1.0.12",
     "express": "^4.16.2",
+    "google-images": "^2.1.0",
     "lodash": "^4.17.4",
     "node-geocoder": "^3.21.1",
     "request": "^2.83.0"

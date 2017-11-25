@@ -78,6 +78,7 @@ router.post('/recommendations/grid', function(req, res) {
       location: item.city + ", " + item.country,
       lat: item.lat,
       lon: item.lon,
+      iata: locationCode,
       type: category_map[category],
       activity: category,
       categories: [category],

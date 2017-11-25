@@ -1,5 +1,6 @@
 [{
   "location": "Llanberis Pass, Snowdonia",
+  "iata": "MAN",
   "type": "sports",
   "activity": "Rock Climbing",
   "categories": ["nature", "mountain"],
@@ -8,6 +9,7 @@
   "lon": -4.09458
 }, {
   "location": "Cat Ba, Vietnam",
+  "iata": "HAN",
   "type": "sports",
   "activity": "Rock Climbing",
   "categories": ["nature", "mountain"],
@@ -16,6 +18,7 @@
   "lon": 106.999722
 }, {
   "location": "Siurana, Catalonia, Spain",
+  "iata": "BCN",
   "type": "sports",
   "activity": "Rock Climbing",
   "categories": ["nature", "mountain"],
@@ -24,6 +27,7 @@
   "lon": 0.9323577999999999
 }, {
   "location": "San Vicente de la Barquera, Spain",
+  "iata": "SDR",
   "type": "sports",
   "activity": "Surfing",
   "categories": ["extreme", "surfind", "beach"],
@@ -32,6 +36,7 @@
   "lon": -4.397057999999999
 }, {
   "location": "Västervik, Sweden",
+  "iata": "ARN",
   "type": "sports",
   "activity": "Rock Climbing",
   "categories": ["nature", "mountain"],
@@ -40,6 +45,7 @@
   "lon": 16.6369759
 }, {
   "location": "Portland, Dorset",
+  "iata": "PDX",
   "type": "sports",
   "activity": "Rock Climbing",
   "categories": ["nature", "mountain"],
@@ -48,6 +54,7 @@
   "lon": -2.4343209
 }, {
   "location": "El Paredón, Guatemala",
+  "iata": "GUA",
   "type": "sports",
   "activity": "Surfing",
   "categories": ["extreme", "surfind", "beach"],
@@ -56,6 +63,7 @@
   "lon": -91.07477820000001
 }, {
   "location": "Yosemite, USA",
+  "iata": "FAT",
   "type": "sports",
   "activity": "Rock Climbing",
   "categories": ["nature", "mountain"],
@@ -64,6 +72,7 @@
   "lon": -119.5383294
 }, {
   "location": "Ailefroide, Écrins, France",
+  "iata": "CDG",
   "type": "sports",
   "activity": "Rock Climbing",
   "categories": ["nature", "mountain"],
@@ -72,6 +81,7 @@
   "lon": 6.446384999999999
 }, {
   "location": "Hossegor, France",
+  "iata": "CDG",
   "type": "sports",
   "activity": "Surfing",
   "categories": ["extreme", "surfind", "beach"],
@@ -80,6 +90,7 @@
   "lon": -1.3976871
 }, {
   "location": "Hoi An, Vietnam",
+  "iata": "DAD",
   "airport_code": "SAT",
   "type": "place",
   "activity": "Visit New Place",
@@ -89,6 +100,7 @@
   "lon": 108.3380469
 }, {
   "location": "Costa Blanca, Spain",
+  "iata": "ALC",
   "type": "sports",
   "activity": "Rock Climbing",
   "categories": ["nature", "mountain"],
@@ -97,6 +109,7 @@
   "lon": -0.2643455
 }, {
   "location": "Tallinn, Estonia",
+  "iata": "TLL",
   "type": "event",
   "activity": "Nightwish Concert",
   "categories": ["music", "gig"],
@@ -105,6 +118,7 @@
   "lon": 24.7535747
 }, {
   "location": "Canggu, Bali",
+  "iata": "DPS",
   "type": "sports",
   "activity": "Surfing",
   "categories": ["extreme", "surfind", "beach"],
@@ -113,6 +127,7 @@
   "lon": 115.1385192
 }, {
   "location": "Lagos, Portugal",
+  "iata": "FAO",
   "type": "sports",
   "activity": "Surfing",
   "categories": ["extreme", "surfind", "beach"],
@@ -121,6 +136,7 @@
   "lon": -8.6730275
 }, {
   "location": "San Vito Lo Capo, Sicily",
+  "iata": "CTA",
   "type": "sports",
   "activity": "Rock Climbing",
   "categories": ["nature", "mountain"],
@@ -129,6 +145,7 @@
   "lon": 12.7334622
 }, {
   "location": "Fontainebleau, France",
+  "iata": "CDG",
   "type": "sports",
   "activity": "Rock Climbing",
   "categories": ["nature", "mountain"],
@@ -137,6 +154,7 @@
   "lon": 2.70162
 }, {
   "location": "Sennen Cove, Cornwall",
+  "iata": "NQY",
   "type": "sports",
   "activity": "Surfing",
   "categories": ["extreme", "surfind", "beach"],
@@ -145,6 +163,7 @@
   "lon": -5.702987299999999
 }, {
   "location": "Waikiki, Hawaii",
+  "iata": "HNL",
   "type": "sports",
   "activity": "Surfing",
   "categories": ["extreme", "surfind", "beach"],
@@ -153,6 +172,7 @@
   "lon": -157.835698
 }, {
   "location": "West Penwith, Cornwall",
+  "iata": "NQY",
   "type": "sports",
   "activity": "Rock Climbing",
   "categories": ["nature", "mountain"],
@@ -161,7 +181,7 @@
   "lon": -5.6810329
 }, {
   "location": "San Antonio, Ecuador",
-  "airport_code": "SAT",
+  "iata": "SAT",
   "type": "place",
   "activity": "Visit New Place",
   "categories": ["city", "museum"],
@@ -170,6 +190,7 @@
   "lon": -78.44677449999999
 }, {
   "location": "Hoddevik, Norway",
+  "iata": "HOV",
   "type": "sports",
   "activity": "Surfing",
   "categories": ["extreme", "surfind", "beach"],
@@ -178,6 +199,7 @@
   "lon": 5.1688947
 }, {
   "location": "Oulu, Finland",
+  "iata": "OUL",
   "type": "event",
   "activity": "Sonata Artica Concert",
   "categories": ["music", "gig"],
@@ -186,6 +208,7 @@
   "lon": 25.4650772
 }, {
   "location": "Shanghai, China",
+  "iata": "PVG",
   "type": "visit",
   "activity": "Visit Friends",
   "images": ["city_shanghai_1.jpg"],
@@ -193,6 +216,7 @@
   "lon": 121.4737021
 }, {
   "location": "San Francisco",
+  "iata": "SFO",
   "type": "event",
   "activity": "Evanescence Concert",
   "categories": ["music", "gig"],
@@ -201,7 +225,7 @@
   "lon": -122.4194155
 }, {
   "location": "Quito, Ecuador",
-  "airport_code": "UIO",
+  "iata": "UIO",
   "type": "place",
   "activity": "Visit New Place",
   "categories": ["city", "museum"],
@@ -210,6 +234,7 @@
   "lon": -78.4678382
 }, {
   "location": "Nivala, Finland",
+  "iata": "OUL",
   "type": "event",
   "activity": "Sonata Artica Concert",
   "categories": ["music", "gig"],
@@ -218,6 +243,7 @@
   "lon": 24.9642446
 }, {
   "location": "Tofo Beach, Mozambique",
+  "iata": "BEW",
   "type": "sports",
   "activity": "Surfing",
   "categories": ["extreme", "surfind", "beach"],
@@ -226,7 +252,7 @@
   "lon": 35.5480014
 }, {
   "location": "Galapagos, Ecuador",
-  "airport_code": "GYE",
+  "iata": "GYE",
   "type": "place",
   "activity": "Visit New Place",
   "categories": ["city", "museum"],
@@ -235,6 +261,7 @@
   "lon": -90.9656019
 }, {
   "location": "Sayulita, Mexico",
+  "iata": "PVR",
   "type": "sports",
   "activity": "Surfing",
   "categories": ["extreme", "surfind", "beach"],
@@ -243,6 +270,7 @@
   "lon": -105.4408333
 }, {
   "location": "Tallinn, Estonia",
+  "iata": "TLL",
   "activity": "Visit Friends",
   "type": "visit",
   "images": ["city_tallinn_1.jpg", "city_tallinn_2.jpg"],
@@ -250,6 +278,7 @@
   "lon": 24.7535747
 }, {
   "location": "Turku, Finland",
+  "iata": "TKU",
   "type": "event",
   "activity": "Sonata Artica Concert",
   "categories": ["music", "gig"],
@@ -258,6 +287,7 @@
   "lon": 22.2666302
 }, {
   "location": "Cologne, Germany",
+  "iata": "CGN",
   "activity": "Visit Friends",
   "type": "visit",
   "images": ["city_cologne_1.jpg", "city_cologne_2.jpg"],
