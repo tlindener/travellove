@@ -12,6 +12,7 @@ var Chance = require('chance');
 
 // Instantiate Chance so it can be used
 var chance = new Chance();
+var _ = require('lodash');
 // var NodeGeocoder = require('node-geocoder');
 // var options = {
 //   provider: 'google',
@@ -25,9 +26,9 @@ var chance = new Chance();
 // var geocoder = NodeGeocoder(options);
 // configure app to use bodyParser()
 // this will let us get the data from a POST
-app.use(bodyParser.urlencoded({
-  extended: true
-}));
+// app.use(bodyParser.urlencoded({
+//   extended: true
+// }));
 app.use(bodyParser.json());
 
 var port = process.env.VCAP_APP_PORT || 8080; // set our port
@@ -57,6 +58,33 @@ var airports = require('./data/airports');
 router.get('/airports', function(req, res) {
   res.json(airports);
 });
+
+router.post('/recommendations/grid', function(req, res) {
+  var recommendations = []
+  var categories = req.body.categories
+  console.log(req.body);
+    recommendation_city_sample = _.sampleSize(airports, 40);
+  recommendation_city_sample.forEach(function(item) {
+
+    new_rec = {
+      location: item.city + " " + item.country,
+      type: "sports",
+      activity: "Rock Climbing",
+      categories: _.sampleSize(categories, 1),
+      month: chance.integer({
+        min: 1,
+        max: 12
+      })
+
+    }
+
+    recommendations.push(new_rec)
+  })
+
+  res.json(recommendations);
+});
+
+
 // more routes for our API will happen here
 
 // REGISTER OUR ROUTES -------------------------------
