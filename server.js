@@ -145,6 +145,11 @@ function minTwoDigits(n) {
 
 // REGISTER OUR ROUTES -------------------------------
 // all of our routes will be prefixed with /api
+app.use(function(req, res, next) {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Headers", "X-Requested-With");
+  next();
+});
 app.use('/api', router);
 console.log(__dirname);
 app.use('/images', express.static(path.join(__dirname, 'images')));
