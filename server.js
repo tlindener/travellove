@@ -10,7 +10,7 @@ var bodyParser = require('body-parser');
 // Load Chance
 var Chance = require('chance');
 var async = require('async')
-
+var path = require('path')
 var request = require("request");
 // Instantiate Chance so it can be used
 var chance = new Chance();
@@ -143,8 +143,8 @@ function minTwoDigits(n) {
 // REGISTER OUR ROUTES -------------------------------
 // all of our routes will be prefixed with /api
 app.use('/api', router);
-app.use('/images', express.static(__dirname + '/images'));
-
+console.log(__dirname);
+app.use('/images',express.static(path.join(__dirname, 'images')));
 
 // START THE SERVER
 // =============================================================================
