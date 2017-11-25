@@ -1,307 +1,266 @@
 [{
-    "location": "Ailefroide, Écrins, France",
-    "type": "sports",
-    "activity": "Rock Climbing",
-    "categories": ["nature", "mountain"],
-    "images": [
-      "climbing_ailefroide_1.jpg"
-    ]
-  },
-  {
-    "location": "Portland, Dorset",
-    "type": "sports",
-    "activity": "Rock Climbing",
-    "categories": ["nature", "mountain"],
-    "images": [
-      "climbing_portland_1.jpg"
-    ]
-  },
-  {
-    "location": "Llanberis Pass, Snowdonia",
-    "type": "sports",
-    "activity": "Rock Climbing",
-    "categories": ["nature", "mountain"],
-    "images": [
-      "climbing_llanberis_pass_1.jpg"
-    ]
-  },
-  {
-    "location": "Siurana, Catalonia, Spain",
-    "type": "sports",
-    "activity": "Rock Climbing",
-    "categories": ["nature", "mountain"],
-    "images": [
-      "climbing_siurana_1.jpg"
-    ]
-  },
-  {
-    "location": "Fontainebleau, France",
-    "type": "sports",
-    "activity": "Rock Climbing",
-    "categories": ["nature", "mountain"],
-    "images": [
-      "climbing_Fontainebleau_1.jpg"
-    ]
-  },
-  {
-    "location": "San Vito Lo Capo, Sicily",
-    "type": "sports",
-    "activity": "Rock Climbing",
-    "categories": ["nature", "mountain"],
-    "images": [
-      "climbing_San_Vito_1.jpg"
-    ]
-  },
-  {
-    "location": "West Penwith, Cornwall",
-    "type": "sports",
-    "activity": "Rock Climbing",
-    "categories": ["nature", "mountain"],
-    "images": [
-      "climbing_West_Penwith_1.jpg"
-    ]
-  },
-  {
-    "location": "Västervik, Sweden",
-    "type": "sports",
-    "activity": "Rock Climbing",
-    "categories": ["nature", "mountain"],
-    "images": [
-      "climbing_Vaestervik_1.jpg"
-    ]
-  },
-  {
-    "location": "Costa Blanca, Spain",
-    "type": "sports",
-    "activity": "Rock Climbing",
-    "categories": ["nature", "mountain"],
-    "images": [
-      "climbing_costa_blanca_1.jpg"
-    ]
-  },
-  {
-    "location": "Yosemite, USA",
-    "type": "sports",
-    "activity": "Rock Climbing",
-    "categories": ["nature", "mountain"],
-    "images": [
-      "climbing_yosemite_1.jpg",
-      "climbing_yosemite_2.jpg"
-    ]
-  },
-  {
-    "location": "Cat Ba, Vietnam",
-    "type": "sports",
-    "activity": "Rock Climbing",
-    "categories": ["nature", "mountain"],
-    "images": [
-      "climbing_cat_ba_1.jpg",
-      "climbing_cat_ba_2.jpg"
-    ]
-  },
-  {
-    "location": "Canggu, Bali",
-    "type": "sports",
-    "activity": "Surfing",
-    "categories": ["extreme", "surfind", "beach"],
-    "images": [
-      "climbing_canggu_1.jpg"
-    ]
-  },
-  {
-    "location": "Sennen Cove, Cornwall",
-    "type": "sports",
-    "activity": "Surfing",
-    "categories": ["extreme", "surfind", "beach"],
-    "images": [
-      "surfing_sennen_cove_1.jpg"
-    ]
-  },
-  {
-    "location": "Hoddevik, Norway",
-    "type": "sports",
-    "activity": "Surfing",
-    "categories": ["extreme", "surfind", "beach"],
-    "images": [
-      "surfing_Hoddevik_1.jpg"
-    ]
-  },
-  {
-    "location": "Waikiki, Hawaii",
-    "type": "sports",
-    "activity": "Surfing",
-    "categories": ["extreme", "surfind", "beach"],
-    "images": [
-      "surfing_Waikiki_1.jpg"
-    ]
-  },
-  {
-    "location": "Lagos, Portugal",
-    "type": "sports",
-    "activity": "Surfing",
-    "categories": ["extreme", "surfind", "beach"],
-    "images": [
-      "surfing_lagos_1.jpg"
-    ]
-  },
-  {
-    "location": "El Paredón, Guatemala",
-    "type": "sports",
-    "activity": "Surfing",
-    "categories": ["extreme", "surfind", "beach"],
-    "images": [
-      "surfing_el_paredon_1.jpg"
-    ]
-  },
-  {
-    "location": "Hossegor, France",
-    "type": "sports",
-    "activity": "Surfing",
-    "categories": ["extreme", "surfind", "beach"],
-    "images": [
-      "surfing_Hossegor_1.jpg"
-    ]
-  },
-  {
-    "location": "Tofo Beach, Mozambique",
-    "type": "sports",
-    "activity": "Surfing",
-    "categories": ["extreme", "surfind", "beach"],
-    "images": [
-      "surfing_tofo_beach_1.jpg"
-    ]
-  },
-  {
-    "location": "San Vicente de la Barquera, Spain",
-    "type": "sports",
-    "activity": "Surfing",
-    "categories": ["extreme", "surfind", "beach"],
-    "images": [
-      "surfing_san_vicente_1.jpg"
-    ]
-  },
-  {
-    "location": "Sayulita, Mexico",
-    "type": "sports",
-    "activity": "Surfing",
-    "categories": ["extreme", "surfind", "beach"],
-    "images": [
-      "surfing_Sayulita_1.jpg"
-    ]
-  },
-  {
-    "location": "Tallinn, Estonia",
-    "type": "event",
-    "activity": "Nightwish Concert",
-    "categories": ["music", "gig"],
-    "images": [
-      "music_nightwish_1.jpg",
-      "music_nightwish_2.jpg"
-    ]
-  },
-  {
-    "location": "Turku, Finland",
-    "type": "event",
-    "activity": "Sonata Artica Concert",
-    "categories": ["music", "gig"],
-    "images": [
-      "music_sonata_artica_1.jpg"
-    ]
-  },
-  {
-    "location": "Oulu, Finland",
-    "type": "event",
-    "activity": "Sonata Artica Concert",
-    "categories": ["music", "gig"],
-    "images": [
-      "music_sonata_artica_1.jpg"
-    ]
-  },
-  {
-    "location": "Nivala, Finland",
-    "type": "event",
-    "activity": "Sonata Artica Concert",
-    "categories": ["music", "gig"],
-    "images": [
-      "music_sonata_artica_1.jpg"
-    ]
-  },
-  {
-    "location": "San Francisco",
-    "type": "event",
-    "activity": "Evanescence Concert",
-    "categories": ["music", "gig"],
-    "images": [
-      "music_evanescense_1.jpg"
-    ]
-  },
-  {
-    "location": "Shanghai, China",
-    "type": "visit",
-    "activity": "Visit Friends",
-    "images": [
-      "city_shanghai_1.jpg"
-    ]
-  },
-  {
-    "location": "Tallinn, Estonia",
-    "activity": "Visit Friends",
-    "type": "visit",
-    "images": [
-      "city_tallinn_1.jpg",
-      "city_tallinn_2.jpg"
-    ]
-  },
-  {
-    "location": "Cologne, Germany",
-    "activity": "Visit Friends",
-    "type": "visit",
-    "images": [
-      "city_cologne_1.jpg",
-      "city_cologne_2.jpg"
-    ]
-  },
-  {
-    "location": "Hoi An, Vietnam",
-    "airport_code": "SAT",
-    "type": "place",
-    "activity": "Visit New Place",
-    "categories": ["city", "museum"],
-    "images": [
-      "place_hoi_an_1.jpg",
-      "place_hoi_an_2.jpg"
-    ]
-  },
-  {
-    "location": "San Antonio, Ecuador",
-    "airport_code": "SAT",
-    "type": "place",
-    "activity": "Visit New Place",
-    "categories": ["city", "museum"],
-    "images": [
-      "place_san_antonio_1.jpg"
-    ]
-  },
-  {
-    "location": "Quito, Ecuador",
-    "airport_code": "UIO",
-    "type": "place",
-    "activity": "Visit New Place",
-    "categories": ["city", "museum"],
-    "images": [
-      "place_quito_1.jpg",
-      "place_quito_2.jpg"
-    ]
-  },
-  {
-    "location": "Galapagos, Ecuador",
-    "airport_code": "GYE",
-    "type": "place",
-    "activity": "Visit New Place",
-    "categories": ["city", "museum"],
-    "images": [
-      "place_galapagos_1.jpg",
-      "place_galapagos_2.jpg"
-    ]
-  }
-]
+  "location": "Llanberis Pass, Snowdonia",
+  "type": "sports",
+  "activity": "Rock Climbing",
+  "categories": ["nature", "mountain"],
+  "images": ["climbing_llanberis_pass_1.jpg"],
+  "lat": 53.0929273,
+  "lon": -4.09458
+}, {
+  "location": "Cat Ba, Vietnam",
+  "type": "sports",
+  "activity": "Rock Climbing",
+  "categories": ["nature", "mountain"],
+  "images": ["climbing_cat_ba_1.jpg", "climbing_cat_ba_2.jpg"],
+  "lat": 20.8,
+  "lon": 106.999722
+}, {
+  "location": "Siurana, Catalonia, Spain",
+  "type": "sports",
+  "activity": "Rock Climbing",
+  "categories": ["nature", "mountain"],
+  "images": ["climbing_siurana_1.jpg"],
+  "lat": 41.2581135,
+  "lon": 0.9323577999999999
+}, {
+  "location": "San Vicente de la Barquera, Spain",
+  "type": "sports",
+  "activity": "Surfing",
+  "categories": ["extreme", "surfind", "beach"],
+  "images": ["surfing_san_vicente_1.jpg"],
+  "lat": 43.3813069,
+  "lon": -4.397057999999999
+}, {
+  "location": "Västervik, Sweden",
+  "type": "sports",
+  "activity": "Rock Climbing",
+  "categories": ["nature", "mountain"],
+  "images": ["climbing_Vaestervik_1.jpg"],
+  "lat": 57.75771559999999,
+  "lon": 16.6369759
+}, {
+  "location": "Portland, Dorset",
+  "type": "sports",
+  "activity": "Rock Climbing",
+  "categories": ["nature", "mountain"],
+  "images": ["climbing_portland_1.jpg"],
+  "lat": 50.5475363,
+  "lon": -2.4343209
+}, {
+  "location": "El Paredón, Guatemala",
+  "type": "sports",
+  "activity": "Surfing",
+  "categories": ["extreme", "surfind", "beach"],
+  "images": ["surfing_el_paredon_1.jpg"],
+  "lat": 13.9185706,
+  "lon": -91.07477820000001
+}, {
+  "location": "Yosemite, USA",
+  "type": "sports",
+  "activity": "Rock Climbing",
+  "categories": ["nature", "mountain"],
+  "images": ["climbing_yosemite_1.jpg", "climbing_yosemite_2.jpg"],
+  "lat": 37.8651011,
+  "lon": -119.5383294
+}, {
+  "location": "Ailefroide, Écrins, France",
+  "type": "sports",
+  "activity": "Rock Climbing",
+  "categories": ["nature", "mountain"],
+  "images": ["climbing_ailefroide_1.jpg"],
+  "lat": 44.888213,
+  "lon": 6.446384999999999
+}, {
+  "location": "Hossegor, France",
+  "type": "sports",
+  "activity": "Surfing",
+  "categories": ["extreme", "surfind", "beach"],
+  "images": ["surfing_Hossegor_1.jpg"],
+  "lat": 43.6646192,
+  "lon": -1.3976871
+}, {
+  "location": "Hoi An, Vietnam",
+  "airport_code": "SAT",
+  "type": "place",
+  "activity": "Visit New Place",
+  "categories": ["city", "museum"],
+  "images": ["place_hoi_an_1.jpg", "place_hoi_an_2.jpg"],
+  "lat": 15.8800584,
+  "lon": 108.3380469
+}, {
+  "location": "Costa Blanca, Spain",
+  "type": "sports",
+  "activity": "Rock Climbing",
+  "categories": ["nature", "mountain"],
+  "images": ["climbing_costa_blanca_1.jpg"],
+  "lat": 38.5043838,
+  "lon": -0.2643455
+}, {
+  "location": "Tallinn, Estonia",
+  "type": "event",
+  "activity": "Nightwish Concert",
+  "categories": ["music", "gig"],
+  "images": ["music_nightwish_1.jpg", "music_nightwish_2.jpg"],
+  "lat": 59.43696079999999,
+  "lon": 24.7535747
+}, {
+  "location": "Canggu, Bali",
+  "type": "sports",
+  "activity": "Surfing",
+  "categories": ["extreme", "surfind", "beach"],
+  "images": ["climbing_canggu_1.jpg"],
+  "lat": -8.6478175,
+  "lon": 115.1385192
+}, {
+  "location": "Lagos, Portugal",
+  "type": "sports",
+  "activity": "Surfing",
+  "categories": ["extreme", "surfind", "beach"],
+  "images": ["surfing_lagos_1.jpg"],
+  "lat": 37.1027881,
+  "lon": -8.6730275
+}, {
+  "location": "San Vito Lo Capo, Sicily",
+  "type": "sports",
+  "activity": "Rock Climbing",
+  "categories": ["nature", "mountain"],
+  "images": ["climbing_San_Vito_1.jpg"],
+  "lat": 38.1750295,
+  "lon": 12.7334622
+}, {
+  "location": "Fontainebleau, France",
+  "type": "sports",
+  "activity": "Rock Climbing",
+  "categories": ["nature", "mountain"],
+  "images": ["climbing_Fontainebleau_1.jpg"],
+  "lat": 48.40467599999999,
+  "lon": 2.70162
+}, {
+  "location": "Sennen Cove, Cornwall",
+  "type": "sports",
+  "activity": "Surfing",
+  "categories": ["extreme", "surfind", "beach"],
+  "images": ["surfing_sennen_cove_1.jpg"],
+  "lat": 50.0755813,
+  "lon": -5.702987299999999
+}, {
+  "location": "Waikiki, Hawaii",
+  "type": "sports",
+  "activity": "Surfing",
+  "categories": ["extreme", "surfind", "beach"],
+  "images": ["surfing_Waikiki_1.jpg"],
+  "lat": 21.285002,
+  "lon": -157.835698
+}, {
+  "location": "West Penwith, Cornwall",
+  "type": "sports",
+  "activity": "Rock Climbing",
+  "categories": ["nature", "mountain"],
+  "images": ["climbing_West_Penwith_1.jpg"],
+  "lat": 50.1249844,
+  "lon": -5.6810329
+}, {
+  "location": "San Antonio, Ecuador",
+  "airport_code": "SAT",
+  "type": "place",
+  "activity": "Visit New Place",
+  "categories": ["city", "museum"],
+  "images": ["place_san_antonio_1.jpg"],
+  "lat": 0.0045685,
+  "lon": -78.44677449999999
+}, {
+  "location": "Hoddevik, Norway",
+  "type": "sports",
+  "activity": "Surfing",
+  "categories": ["extreme", "surfind", "beach"],
+  "images": ["surfing_Hoddevik_1.jpg"],
+  "lat": 62.1243086,
+  "lon": 5.1688947
+}, {
+  "location": "Oulu, Finland",
+  "type": "event",
+  "activity": "Sonata Artica Concert",
+  "categories": ["music", "gig"],
+  "images": ["music_sonata_artica_1.jpg"],
+  "lat": 65.0120888,
+  "lon": 25.4650772
+}, {
+  "location": "Shanghai, China",
+  "type": "visit",
+  "activity": "Visit Friends",
+  "images": ["city_shanghai_1.jpg"],
+  "lat": 31.2303904,
+  "lon": 121.4737021
+}, {
+  "location": "San Francisco",
+  "type": "event",
+  "activity": "Evanescence Concert",
+  "categories": ["music", "gig"],
+  "images": ["music_evanescense_1.jpg"],
+  "lat": 37.7749295,
+  "lon": -122.4194155
+}, {
+  "location": "Quito, Ecuador",
+  "airport_code": "UIO",
+  "type": "place",
+  "activity": "Visit New Place",
+  "categories": ["city", "museum"],
+  "images": ["place_quito_1.jpg", "place_quito_2.jpg"],
+  "lat": -0.1806532,
+  "lon": -78.4678382
+}, {
+  "location": "Nivala, Finland",
+  "type": "event",
+  "activity": "Sonata Artica Concert",
+  "categories": ["music", "gig"],
+  "images": ["music_sonata_artica_1.jpg"],
+  "lat": 63.928431,
+  "lon": 24.9642446
+}, {
+  "location": "Tofo Beach, Mozambique",
+  "type": "sports",
+  "activity": "Surfing",
+  "categories": ["extreme", "surfind", "beach"],
+  "images": ["surfing_tofo_beach_1.jpg"],
+  "lat": -23.8568821,
+  "lon": 35.5480014
+}, {
+  "location": "Galapagos, Ecuador",
+  "airport_code": "GYE",
+  "type": "place",
+  "activity": "Visit New Place",
+  "categories": ["city", "museum"],
+  "images": ["place_galapagos_1.jpg", "place_galapagos_2.jpg"],
+  "lat": -0.9537690999999999,
+  "lon": -90.9656019
+}, {
+  "location": "Sayulita, Mexico",
+  "type": "sports",
+  "activity": "Surfing",
+  "categories": ["extreme", "surfind", "beach"],
+  "images": ["surfing_Sayulita_1.jpg"],
+  "lat": 20.8688888,
+  "lon": -105.4408333
+}, {
+  "location": "Tallinn, Estonia",
+  "activity": "Visit Friends",
+  "type": "visit",
+  "images": ["city_tallinn_1.jpg", "city_tallinn_2.jpg"],
+  "lat": 59.43696079999999,
+  "lon": 24.7535747
+}, {
+  "location": "Turku, Finland",
+  "type": "event",
+  "activity": "Sonata Artica Concert",
+  "categories": ["music", "gig"],
+  "images": ["music_sonata_artica_1.jpg"],
+  "lat": 60.4518126,
+  "lon": 22.2666302
+}, {
+  "location": "Cologne, Germany",
+  "activity": "Visit Friends",
+  "type": "visit",
+  "images": ["city_cologne_1.jpg", "city_cologne_2.jpg"],
+  "lat": 50.937531,
+  "lon": 6.9602786
+}]

@@ -76,6 +76,8 @@ router.post('/recommendations/grid', function(req, res) {
     var category = _.sample(categories)
     var new_rec = {
       location: item.city + ", " + item.country,
+      lat: item.lat,
+      lon: item.lon,
       type: category_map[category],
       activity: category,
       categories: [category],
@@ -144,7 +146,7 @@ function minTwoDigits(n) {
 // all of our routes will be prefixed with /api
 app.use('/api', router);
 console.log(__dirname);
-app.use('/images',express.static(path.join(__dirname, 'images')));
+app.use('/images', express.static(path.join(__dirname, 'images')));
 
 // START THE SERVER
 // =============================================================================
